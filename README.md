@@ -54,9 +54,13 @@
 
 ---
 
-<a href="https://www.viz.com/shonenjump/chapters/one-piece" target="_blank" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
+<div align="center">
 
-<img src="./assets/icon-op-gomu-gomu.png" alt="icon" width="96" />
-<span style="font-size: 10px; color: #ea232a; text-decoration: underline;">Catch up to One Piece</span>
-
+<a href="https://www.viz.com/shonenjump/chapters/one-piece" target="_blank">
+  <img src="./assets/icon-op-gomu-gomu.png" alt="icon" width="96" />
+  <br />
+  <sub>Catch up to One Piece</sub>
 </a>
+
+</div>
+
