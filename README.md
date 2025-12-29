@@ -51,6 +51,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-lesi/)
 [![ ](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/chris_lesi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chris.lesi001@gmail.com)
+[![ ](https://img.shields.io/badge/-Sponsor-262c36?style=flat&logo=undertale&logoColor=db61a2)](https://github.com/sponsors/lesi97)
 
 ---
 
